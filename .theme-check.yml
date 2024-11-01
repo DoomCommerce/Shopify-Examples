@@ -1,5 +1,5 @@
 
-root : '/Source'
+root : Theme
 
 ignore :
     - 'node_modules/**'

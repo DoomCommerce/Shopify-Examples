@@ -24,5 +24,6 @@ set +a
 store="${1:-$store}"
 
 
-shopify theme dev \
-    --store="$store"
+shopify theme dev       \
+    --store="$store"    \
+    --path="Theme"
