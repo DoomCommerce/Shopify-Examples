@@ -1,0 +1,11 @@
+{
+    "recommendations" : [
+        "streetsidesoftware.code-spell-checker" ,
+        "codeandstuff.package-json-upgrade" ,
+        "vscode-icons-team.vscode-icons" ,
+        "Shopify.theme-check-vscode" ,
+        "EditorConfig.EditorConfig" ,
+        "YoavBls.pretty-ts-errors" ,
+        "Syler.ignore"
+    ]
+}

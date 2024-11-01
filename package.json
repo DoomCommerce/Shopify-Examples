@@ -1,0 +1,9 @@
+{
+    "private" : true ,
+
+    "scripts" : {
+        "theme" : "sh .config/Tasks/Theme.sh" ,
+        "build" : "sh .config/Tasks/Build.sh" ,
+        "dev" : "sh .config/Tasks/Watch.sh"
+    }
+}

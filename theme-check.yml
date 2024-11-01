@@ -1,0 +1,10 @@
+
+root : '/Source'
+
+ignore :
+    - 'node_modules/**'
+    - '.config/**'
+    - 'Source/**'
+
+VariableName :
+    enabled : false

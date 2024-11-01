@@ -1,0 +1,17 @@
+
+**/.env
+
+bun.lockb
+package.json
+README.md
+LICENSE
+
+.editorconfig
+.gitignore
+
+node_modules/**
+Source/**
+
+.vscode/**
+.github/**
+.config/**
