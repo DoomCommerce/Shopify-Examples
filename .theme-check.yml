@@ -1,0 +1,10 @@
+
+root : Theme
+
+ignore :
+    - 'node_modules/**'
+    - '.config/**'
+    - 'Source/**'
+
+VariableName :
+    enabled : false
